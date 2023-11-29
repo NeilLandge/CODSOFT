@@ -1,2 +1,2 @@
-# Codsoft
-CODSOFT Python Programming Internships Tasks 
+# Codsoft Python Programming Internship Tasks
+
